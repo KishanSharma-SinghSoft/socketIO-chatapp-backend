@@ -1,0 +1,9 @@
+com\gucardev\backend\BackendApplication.class
+com\gucardev\backend\model\MessageType.class
+com\gucardev\backend\repository\MessageRepository.class
+com\gucardev\backend\config\SocketIOConfig.class
+com\gucardev\backend\socket\SocketModule.class
+com\gucardev\backend\model\BaseModel.class
+com\gucardev\backend\config\ServerCommandLineRunner.class
+com\gucardev\backend\service\MessageService.class
+com\gucardev\backend\model\Message.class
