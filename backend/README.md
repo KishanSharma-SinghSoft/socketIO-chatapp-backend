@@ -8,7 +8,7 @@
 
 **Netty Socket IO:** socket server
 
-**H2 db:** socket server
+**MySql db:** socket server
 
 &nbsp;
 
