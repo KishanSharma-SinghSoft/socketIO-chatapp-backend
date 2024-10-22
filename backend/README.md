@@ -17,7 +17,7 @@
 #### clone the project: https://github.com/KishanSharma-SinghSoft/socketIO-chatapp-backend
 
 ```bash
-  git clone [https://github.com/gurkanucar/socketio-simple-chat](https://github.com/KishanSharma-SinghSoft/socketIO-chatapp-backend)
+  git clone https://github.com/KishanSharma-SinghSoft/socketIO-chatapp-backend
 ```
 
 #### run
